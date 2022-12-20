@@ -1,0 +1,22 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/every-single-baseline" value="true" />
+        <entry key="$USER_HOME$/projects/mi-rim" value="true" />
+        <entry key="$USER_HOME$/projects/python-gatenlp" value="true" />
+        <entry key="$USER_HOME$/projects/smm4h-2022-social-dis-ner" value="true" />
+        <entry key="$USER_HOME$/projects/smm4h-social-dis-ner" value="true" />
+        <entry key="$USER_HOME$/spanner" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/projects" />
+        <option value="$USER_HOME$" />
+      </list>
+    </option>
+  </component>
+</application>

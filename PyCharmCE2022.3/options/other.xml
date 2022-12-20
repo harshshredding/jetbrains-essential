@@ -1,0 +1,114 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2AopvgmAzQCojfQCSKXoYRYMdvO">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2B4TvtsrJWbYZfUXH2Jx01moARS">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Bd0WmietbaizPnz5iUk7WSXnNj">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2BlTrPwT9Qv1TagI7Zbgs07gM0q">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2FPLiRoNeTdqiRCBohQ3eytCSZe">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="12.0" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "ExpandBeforeRunStepsPanel": "true",
+    "FindSplitterProportion": "0.33019978",
+    "InstalledPluginsSearchHistory": "vim\nv",
+    "KEYMAP": "completion\nreformat file\nctrl+\nsettings\nGo to Imp",
+    "LayoutCode.optimizeImports": "false",
+    "LayoutCode.processChangedText": "false",
+    "LayoutCode.rearrangeEntriesPython": "false",
+    "MarketplacePluginsSearchHistory": "/tag:theme /sortBy:rating\n/tag:theme\n/tag:Keymap v\n/tag:Keymap vim\n/tag:Keymap",
+    "NextRunPlatformUpdateBuild": "PC-221.6008.17/2022.1.4",
+    "NextRunPlatformUpdateVersion": "2022.1.4",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PYCHARM_CONDA_FULL_LOCAL_PATH": "/home/harsh/anaconda3/bin/conda",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "PyCharm.InitialConfiguration.V8": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SHELLCHECK.PATH": "I do mind",
+    "SettingsSearchHistory": "Rename\nsuggestion\nNavigation\nback\nvim",
+    "TextEditorWithPreview.SplitterProportionKey": "0.53691274",
+    "appcds.runOnSecondStart": "PC-223.7571.203-af8d82cedf1687fb6b23aca8f88682aeb9398b48bfdf6b4a1105f68db1b2f45e",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "PC-223.7571.203",
+    "disable.forced.soft.wraps.notification": "true",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "file.gist.reindex.count": "71",
+    "fileTypeChangedCounter": "3",
+    "fontSizeToResetConsole": "12.0",
+    "fontSizeToResetEditor": "12.0",
+    "got.it.tooltip.cwm.invitation.notification": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "gotit.previous.run": "PC-223.7571.203",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1671486712880",
+    "ignoreUltimateEdition": "true",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/harsh/compile_grades",
+    "previousColorScheme": "_@user_Gerry Dark",
+    "registry.to.advanced.settings.migration.build": "PC-223.7571.203",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/harsh/compile_grades",
+      "/home/harsh/spanner",
+      "/home/harsh/every-single-baseline",
+      "/home/harsh/projects/python-gatenlp",
+      "/home/harsh/projects/smm4h-social-dis-ner",
+      "/home/harsh/projects/mi-rim",
+      "/home/harsh/projects/smm4h-2022-social-dis-ner"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "CtrlW": 1671257725794,
+    "ShowUsages": 1671486715112
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="every-single-baseline-history" project-path="$USER_HOME$/every-single-baseline" last-access-time="1671307242559" />
+      <command-history-file filename="every-single-baseline-history2" project-path="$USER_HOME$/every-single-baseline" last-access-time="1671307242569" />
+      <command-history-file filename="every-single-baseline-history1" project-path="$USER_HOME$/every-single-baseline" last-access-time="1671307242566" />
+    </command-history-files>
+  </component>
+</application>

@@ -1,0 +1,98 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/projects/mi-rim">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mi-rim – ner-disease.py" projectWorkspaceId="2B4TvtsrJWbYZfUXH2Jx01moARS">
+              <option name="activationTimestamp" value="1656298375642" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-221.5921.27" />
+              <option name="buildTimestamp" value="1655845383388" />
+              <frame x="297" y="53" width="1400" height="1000" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1656164591113" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/smm4h-2022-social-dis-ner">
+          <value>
+            <RecentProjectMetaInfo frameTitle="smm4h-2022-social-dis-ner – mentions.tsv" projectWorkspaceId="2AopvgmAzQCojfQCSKXoYRYMdvO">
+              <option name="activationTimestamp" value="1657244847603" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-221.5921.27" />
+              <option name="buildTimestamp" value="1655845383388" />
+              <frame x="297" y="53" width="1400" height="1000" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1656298378369" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/python-gatenlp">
+          <value>
+            <RecentProjectMetaInfo frameTitle="python-gatenlp – index.md" projectWorkspaceId="2FPLiRoNeTdqiRCBohQ3eytCSZe">
+              <option name="activationTimestamp" value="1664393585575" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-221.5921.27" />
+              <option name="buildTimestamp" value="1655845404954" />
+              <frame x="74" y="27" width="1846" height="1053" extendedState="6" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1664388901154" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/smm4h-social-dis-ner">
+          <value>
+            <RecentProjectMetaInfo frameTitle="smm4h-social-dis-ner – GENIAcorpus3.02.xml" opened="true" projectWorkspaceId="2BlTrPwT9Qv1TagI7Zbgs07gM0q">
+              <option name="activationTimestamp" value="1666363628728" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-221.5921.27" />
+              <option name="buildTimestamp" value="1655845404954" />
+              <frame x="74" y="27" width="1846" height="1053" extendedState="6" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1664393597118" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/spanner">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2IpLgsjRtA03iZLElGbAzsiQ1xA">
+              <option name="activationTimestamp" value="1670878066499" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-223.7571.203" />
+              <option name="buildTimestamp" value="1669817502709" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1670873692926" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/every-single-baseline">
+          <value>
+            <RecentProjectMetaInfo frameTitle="every-single-baseline – setup.sh" opened="true" projectWorkspaceId="2BlTrPwT9Qv1TagI7Zbgs07gM0q">
+              <option name="activationTimestamp" value="1671320372840" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-223.7571.203" />
+              <option name="buildTimestamp" value="1669817514165" />
+              <frame x="74" y="27" width="1846" height="1053" extendedState="6" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1671317832388" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/compile_grades">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2J9OD2npZfjzrQRndDlx4QWlh24">
+              <option name="activationTimestamp" value="1671552093078" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-223.7571.203" />
+              <option name="buildTimestamp" value="1669817515858" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1671486709477" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/compile_grades" />
+  </component>
+</application>

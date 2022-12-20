@@ -1,0 +1,31 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="ChangeSorting.html" value="1666354740571" />
+        <entry key="Close_all_editor_tabs.html" value="1663437418540" />
+        <entry key="Command-queue.html" value="1662142878390" />
+        <entry key="CompareEditorWithClipboard.html" value="1661809635910" />
+        <entry key="Escape.html" value="1658490649430" />
+        <entry key="FileStructurePopup.html" value="1662840532728" />
+        <entry key="GoToFile.html" value="1662314091862" />
+        <entry key="GoToSymbol.html" value="1664323906939" />
+        <entry key="GotoLineInFile.html" value="1657646562819" />
+        <entry key="InspectionsWidget.html" value="1658608867518" />
+        <entry key="Interpreter.html" value="1658703701861" />
+        <entry key="JumpToLastEdit.html" value="1662589439869" />
+        <entry key="LineEndings.html" value="1658858344927" />
+        <entry key="Managepy.html" value="1663252700607" />
+        <entry key="Multicursor1.html" value="1655932719828" />
+        <entry key="QuickJavaDocInLookups.html" value="1657512779731" />
+        <entry key="RefactorThis.html" value="1657733596007" />
+        <entry key="RunConfigFolders.html" value="1658025195516" />
+        <entry key="SearchEverywhere.html" value="1657220694694" />
+        <entry key="ShowUsages.html" value="1657834804383" />
+        <entry key="SurroundWith.html" value="1657938284231" />
+        <entry key="Switcher.html" value="1663561925264" />
+        <entry key="features-trainer.html" value="1656164412999" />
+      </map>
+    </option>
+  </component>
+</application>

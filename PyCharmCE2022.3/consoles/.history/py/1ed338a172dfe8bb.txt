@@ -1,0 +1,23 @@
+0 != None
+-. . -..- - / . -. - .-. -.--
+x = 1
+-. . -..- - / . -. - .-. -.--
+str(x)
+-. . -..- - / . -. - .-. -.--
+from enum import Enum
+-. . -..- - / . -. - .-. -.--
+Animal = Enum('Animal', 'ant bee cat')
+-. . -..- - / . -. - .-. -.--
+Animal.ant == Animal.ant
+-. . -..- - / . -. - .-. -.--
+x = {}
+-. . -..- - / . -. - .-. -.--
+x[1]
+-. . -..- - / . -. - .-. -.--
+from args import *
+-. . -..- - / . -. - .-. -.--
+from util import *
+-. . -..- - / . -. - .-. -.--
+from util import print_args
+-. . -..- - / . -. - .-. -.--
+print_args()
